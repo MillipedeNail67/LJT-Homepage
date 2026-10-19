@@ -34,12 +34,12 @@ I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, supervised 
 
 ## Publications
 
-- [SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond](/publication/2025-synlogic) — Arxiv, 2025 (first author)
-- [On the Perception Bottleneck of VLMs for Chart Understanding](/publication/2025-perception-bottleneck-vlm-chart-understanding) — Arxiv, 2025 (first author)
-- [On the Universal Truthfulness Hyperplane Inside LLMs](/publication/2024-universal-truthfulness-hyperplane) — EMNLP 2024 (first author)
-- [In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation](/publication/2024-in-context-sharpness-as-alerts) — ICML 2024 (co-author)
-- [C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models](/publication/2023-c-eval) — NeurIPS 2023 (co-author)
-- [Composing Parameter-Efficient Modules with Arithmetic Operations](/publication/2023-composing-parameter-efficient-modules) — NeurIPS 2023 (co-author)
+- [SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond]({{ site.baseurl }}/publication/2025-synlogic) — Arxiv, 2025 (first author)
+- [On the Perception Bottleneck of VLMs for Chart Understanding]({{ site.baseurl }}/publication/2025-perception-bottleneck-vlm-chart-understanding) — Arxiv, 2025 (first author)
+- [On the Universal Truthfulness Hyperplane Inside LLMs]({{ site.baseurl }}/publication/2024-universal-truthfulness-hyperplane) — EMNLP 2024 (first author)
+- [In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation]({{ site.baseurl }}/publication/2024-in-context-sharpness-as-alerts) — ICML 2024 (co-author)
+- [C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models]({{ site.baseurl }}/publication/2023-c-eval) — NeurIPS 2023 (co-author)
+- [Composing Parameter-Efficient Modules with Arithmetic Operations]({{ site.baseurl }}/publication/2023-composing-parameter-efficient-modules) — NeurIPS 2023 (co-author)
 
 ## Contact
 
